@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @hamfreebird
-- 👀 I’m interested in [python, c#, music, sky]
-- 🌱 I’m currently learning [c#, linux]
-- 💞️ I’m looking to collaborate on [everybody who can write python]
-- 📫 How to reach me [freebirdflyinthesky@outlook.com]
-- 😄 Pronouns: [c:\]
-- ⚡ Fun fact: [（*＾-＾*）]
+Hi, I’m @hamfreebird
+welcome to my github homepage!
 
-- freebird fly in the sky!
+freebird fly in the sky!
 
 <!---
 hamfreebird/hamfreebird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
